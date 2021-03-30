@@ -20,7 +20,7 @@ title                    : " "
 title_separator          : "-"
 subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : " "
-description              : "Support for Open Source Technologies on Microsoft Azure App Service."
+description              : "Azure Spring Cloud Support Blog"
 url                      : "https://azureossd.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "azureossd/azureossd.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
